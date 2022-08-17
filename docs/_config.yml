@@ -28,7 +28,7 @@ twitter_username: matangrin
 github_username:  matangrinberg
 
 # Build settings
-theme: minima
+theme: minimal
 plugins:
   - jekyll-feed
 
