@@ -11,9 +11,18 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
+# ABOUT
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+
+# PUBLICATIONS
+
+I am a PhD student at the Berkeley Center for Theoretical Physics at the University of California, Berkeley. I work with Dr. Benjamin Nachman at Berkeley Lab and am interested in machine learning applications to high-energy physics, theoretical machine learning and quantum computing. Previously I studied string theory and quantum gravity at the University of Cambridge (Part III) and Princeton University (undergraduate).
+
+[Google Scholar](https://scholar.google.com/citations?user=dJMiGbsAAAAJ)
+[LinkedIn](https://www.linkedin.com/in/matan-grinberg/)
+[InspireHEP](https://inspirehep.net/authors/1681615?ui-citation-summary=true)
+[Twitter](https://twitter.com/MatanGrin)
 
 ## Header 2
 
