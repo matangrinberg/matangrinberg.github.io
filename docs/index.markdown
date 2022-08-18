@@ -13,11 +13,9 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 # ABOUT
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+I am a PhD student at the Berkeley Center for Theoretical Physics at the University of California, Berkeley. I work with Dr. Benjamin Nachman at Berkeley Lab and am interested in machine learning applications to high-energy physics, theoretical machine learning and quantum computing. Previously I studied string theory and quantum gravity at the University of Cambridge (Part III) and Princeton University (undergraduate).
 
 # PUBLICATIONS
-
-I am a PhD student at the Berkeley Center for Theoretical Physics at the University of California, Berkeley. I work with Dr. Benjamin Nachman at Berkeley Lab and am interested in machine learning applications to high-energy physics, theoretical machine learning and quantum computing. Previously I studied string theory and quantum gravity at the University of Cambridge (Part III) and Princeton University (undergraduate).
 
 [Google Scholar](https://scholar.google.com/citations?user=dJMiGbsAAAAJ)
 [LinkedIn](https://www.linkedin.com/in/matan-grinberg/)
@@ -47,11 +45,6 @@ GitHubPages::Dependencies.gems.each do |gem, version|
 end
 ```
 
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
 
 ##### Header 5
 
@@ -72,54 +65,4 @@ end
 
 * * *
 
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
 ```
