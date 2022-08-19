@@ -7,7 +7,12 @@ I am a PhD student at the Berkeley Center for Theoretical Physics at the Univers
 # PUBLICATIONS
 
 [Google Scholar](https://scholar.google.com/citations?user=dJMiGbsAAAAJ)
+
 [LinkedIn](https://www.linkedin.com/in/matan-grinberg/)
+
 [InspireHEP](https://inspirehep.net/authors/1681615?ui-citation-summary=true)
+
 [Twitter](https://twitter.com/MatanGrin)
+
+# MISCELLANEOUS
 
