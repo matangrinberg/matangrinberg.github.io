@@ -8,11 +8,20 @@ I am a PhD student at the Berkeley Center for Theoretical Physics at the Univers
 
 [Google Scholar](https://scholar.google.com/citations?user=dJMiGbsAAAAJ)
 
-[LinkedIn](https://www.linkedin.com/in/matan-grinberg/)
-
 [InspireHEP](https://inspirehep.net/authors/1681615?ui-citation-summary=true)
+
+
+# LINKS
+
+[LinkedIn](https://www.linkedin.com/in/matan-grinberg/)
 
 [Twitter](https://twitter.com/MatanGrin)
 
-# MISCELLANEOUS
+[Spotify](https://open.spotify.com/playlist/69mxYReb0WVPZPL3jLOKWC?si=4861f0dea67442e3)
 
+
+# SOME OF MY FAVORITE ARTICLES
+
+[Patterns That Eventually Fail](https://johncarlosbaez.wordpress.com/2018/09/20/patterns-that-eventually-fail/)
+[Quantum to Cosmos](https://quantumtocosmos.ca/#/scale)
+[What happens to you if you fall into a black hole?](https://math.ucr.edu/home/baez/physics/Relativity/BlackHoles/fall_in.html)
