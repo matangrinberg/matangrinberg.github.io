@@ -23,5 +23,7 @@ I am a PhD student at the Berkeley Center for Theoretical Physics at the Univers
 # SOME OF MY FAVORITE ARTICLES
 
 [Patterns That Eventually Fail](https://johncarlosbaez.wordpress.com/2018/09/20/patterns-that-eventually-fail/)
+
 [Quantum to Cosmos](https://quantumtocosmos.ca/#/scale)
+
 [What happens to you if you fall into a black hole?](https://math.ucr.edu/home/baez/physics/Relativity/BlackHoles/fall_in.html)
