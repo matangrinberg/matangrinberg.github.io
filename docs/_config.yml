@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Matan Grinberg
+title: Matan Grinberg <span class="red">test</span>
 email: matan (at) berkeley (dot) edu
 description: >- # this means to ignore newlines until "baseurl:"
 #  # Matan Grinberg is a PhD student at the University of California, Berkeley.
