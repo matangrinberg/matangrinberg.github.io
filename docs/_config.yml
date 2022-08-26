@@ -18,14 +18,24 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Matan Grinberg
-email: matan (at) berkeley (dot) edu
-description: >- # this means to ignore newlines until "baseurl:"
-#  # Matan Grinberg is a PhD student at the University of California, Berkeley.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: matangrin
-github_username:  matangrinberg
+title: Minimal theme
+description: Minimal is a theme for GitHub Pages.
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-minimal
+
+
+
+
+
+# title: Matan Grinberg
+# email: matan (at) berkeley (dot) edu
+# description: >- # this means to ignore newlines until "baseurl:"
+# #  # Matan Grinberg is a PhD student at the University of California, Berkeley.
+# baseurl: "" # the subpath of your site, e.g. /blog
+# url: "" # the base hostname & protocol for your site, e.g. http://example.com
+# twitter_username: matangrin
+# github_username:  matangrinberg
 
 
 
@@ -41,16 +51,16 @@ github_username:  matangrinberg
 #   Author's home: "https://deanattali.com"
 
 
-logo: "avatar.jpg"
+# logo: "avatar.jpg"
 
 
 
 # Build settings
 # theme: minima
-remote_theme: pages-themes/minimal@v0.2.0
-plugins:
-  - jekyll-feed
-  - jekyll-remote-theme
+# remote_theme: pages-themes/minimal@v0.2.0
+# plugins:
+#   - jekyll-feed
+#   - jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default.
