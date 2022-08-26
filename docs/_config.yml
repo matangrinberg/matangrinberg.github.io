@@ -19,11 +19,6 @@
 # in the templates via {{ site.myvariable }}.
 
 theme: jekyll-theme-minimal
-
-
-
-
-
 title: Matan Grinberg
 email: matan (at) berkeley (dot) edu
 description: >- # this means to ignore newlines until "baseurl:"
@@ -32,6 +27,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: matangrin
 github_username:  matangrinberg
+logo: "avatar.jpg"
 
 
 
@@ -39,23 +35,23 @@ github_username:  matangrinberg
 # # --- List of links in the navigation bar --- #
 # ###############################################
 
-# navbar-links:
-#   About Me: "aboutme"
+navbar-links:
+  About Me: "aboutme"
 #   Resources:
 #     - Beautiful Jekyll: "https://beautifuljekyll.com"
 #     - Learn markdown: "https://www.markdowntutorial.com/"
 #   Author's home: "https://deanattali.com"
 
 
-logo: "avatar.jpg"
+
 
 
 
 # Build settings
 # theme: minima
 # remote_theme: pages-themes/minimal@v0.2.0
-# plugins:
-#   - jekyll-feed
+plugins:
+  - jekyll-feed
 #   - jekyll-remote-theme
 
 # Exclude from processing.
