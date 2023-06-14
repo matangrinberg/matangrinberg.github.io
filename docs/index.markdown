@@ -1,5 +1,3 @@
-
-
 # About
 
 I am a PhD student at the Berkeley Center for Theoretical Physics at the University of California, Berkeley. I work with Dr. Benjamin Nachman at Berkeley Lab and am interested in machine learning applications to high-energy physics, theoretical machine learning and quantum computing. Previously I studied string theory and quantum gravity at the University of Cambridge (Part III) and Princeton University (undergraduate).
@@ -27,3 +25,25 @@ I am a PhD student at the Berkeley Center for Theoretical Physics at the Univers
 [Quantum to Cosmos](https://quantumtocosmos.ca/#/scale)
 
 [What happens to you if you fall into a black hole?](https://math.ucr.edu/home/baez/physics/Relativity/BlackHoles/fall_in.html)
+
+# Explore More
+
+[Discover Another Page](./another-page.md){: .another-page-link }
+
+<style>
+.another-page-link {
+  display: inline-block;
+  background-color: #3d7ae3;
+  color: white;
+  padding: 10px 20px;
+  border-radius: 5px;
+  font-weight: bold;
+  text-decoration: none;
+  margin-top: 20px;
+}
+
+.another-page-link:hover, .another-page-link:focus {
+  background-color: #1661e2;
+  text-decoration: none;
+}
+</style>
