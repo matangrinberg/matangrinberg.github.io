@@ -1,16 +1,12 @@
 ---
-layout: default
+layout: page
+title: Poetry Collection
+permalink: /poetry/
 ---
 
-## Welcome to another page
+Welcome to the Poetry Collection page. This page features a curated list of poems from various poets and time periods. The purpose of this page is to share the beauty of poetry and provide a space for readers to explore and enjoy these literary works.
 
-_yay_
-
-[back](./)
-
-## Poetry Collection
-
-### The Road Not Taken
+## The Road Not Taken
 _By Robert Frost_
 
 Two roads diverged in a yellow wood,
@@ -19,7 +15,7 @@ And be one traveler, long I stood
 And looked down one as far as I could
 To where it bent in the undergrowth;
 
-### Do Not Go Gentle into That Good Night
+## Do Not Go Gentle into That Good Night
 _By Dylan Thomas_
 
 Do not go gentle into that good night,
@@ -30,7 +26,7 @@ Though wise men at their end know dark is right,
 Because their words had forked no lightning they
 Do not go gentle into that good night.
 
-### A Dream Within a Dream
+## A Dream Within a Dream
 _By Edgar Allan Poe_
 
 Take this kiss upon the brow!
